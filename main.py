@@ -3,6 +3,6 @@ s=input()
 m=s
 r=s[::-1]
 if(r == m):
-          print("Palindrome")
+          print("Palindrome Number")
 else:
-     print("Not palindrome")
+     print("Not palindrome Number")
